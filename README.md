@@ -24,8 +24,3 @@ Improvements:
 * Better logging
 
 I do not know if the script works for everyone as well as it does for me, but it would make me very happy.
-
-### Donation
-I would appreciate any donations for my efforts. Any money will of course go into our 2 favorite stocks ;) <br>
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3VH5ZWEDASC2W)
